@@ -113,7 +113,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## ✨ Author
 
 Your Name
-GitHub: [https://github.com/your-username](https://github.com/arun2k6arun123-netizen)
+GitHub: [https://github.com/your-username](https://github.com/arunravikumarm)
 
 ---
 
